@@ -16,6 +16,7 @@ I’m a full-stack software engineer with 19+ years of hands-on experience in bu
 * **DevOps & Tools**: Git, GitHub Actions, Azure DevOps Pipelines, Docker (basic), Swagger, Postman
 * **Architecture**: REST APIs, Clean Architecture, Repository Pattern, SOLID, CI/CD
 * **IDE/Editors**: Visual Studio, VS Code
+* **CMS**: Sitecore v6.5-10.3
 
 ---
 
