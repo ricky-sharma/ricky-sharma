@@ -39,6 +39,6 @@ I’m a full-stack software engineer with 19+ years of hands-on experience in bu
 ### 📫 Contact
 
 * 🌐 [GitHub](https://github.com/ricky-sharma)
-* 💼 [LinkedIn](https://au.linkedin.com/in/vinay-sharma-2022354) *(Replace with actual URL)*
+* 💼 [LinkedIn](https://au.linkedin.com/in/vinay-sharma-2022354)
 
 ---
