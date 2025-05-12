@@ -1,6 +1,6 @@
 ---
 
-## 👨‍💻 Full Stack .NET Developer | React Enthusiast | Sitecore Architect | Clean Code Advocate
+## 👨‍💻 Full Stack .NET Developer | React Enthusiast | Sitecore Specialist | Clean Code Advocate
 
 I’m a full-stack software engineer with 19+ years of hands-on experience in building scalable enterprise web applications. My primary expertise lies in **.NET Core (C#)** for backend development and **React.js** for crafting modern, performant frontends. I follow clean architecture principles and enjoy writing testable, maintainable code across the stack.
 
