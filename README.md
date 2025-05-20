@@ -23,7 +23,7 @@ I’m a full-stack software engineer with 19+ years of hands-on experience in bu
 ### 🛠️ Notable Work
 
 * 🎯 **React Data Grid Lite**: A lightweight and customizable React data grid component designed for high performance and ease of use.
-* * 🔄 **Employee Portal**: Internal HR tool built using .NET 6, React, SQL Server — supports employee data, department mapping, and reporting.
+* 🔄 **Employee Portal**: Internal HR tool built using .NET 6, React, SQL Server — supports employee data, department mapping, and reporting.
 
 ---
 
