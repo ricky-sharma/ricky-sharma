@@ -22,9 +22,8 @@ I’m a full-stack software engineer with 19+ years of hands-on experience in bu
 
 ### 🛠️ Notable Work
 
-* 🔄 **Employee Portal**: Internal HR tool built using .NET 6, React, SQL Server — supports employee data, department mapping, and reporting.
-* 📦 **Products Management System**: Admin dashboard for managing products and categories. Built with a clean service layer, full CRUD API, and React frontend.
-* 🎯 **Lottery Draw App**: Simulates lottery entries with random draw logic and UI feedback. Built for demoing clean separation between frontend and backend logic.
+* 🎯 **React Data Grid Lite**: A lightweight and customizable React data grid component designed for high performance and ease of use.
+* * 🔄 **Employee Portal**: Internal HR tool built using .NET 6, React, SQL Server — supports employee data, department mapping, and reporting.
 
 ---
 
